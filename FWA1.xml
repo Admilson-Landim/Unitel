@@ -1,0 +1,182 @@
+<rows>
+  <row>
+    <AttributeName>IpRouter</AttributeName>
+    <Value />
+    <DomainValue />
+    <Aux1 />
+    <Aux2 />
+    <Aux3 />
+    <Aux4 />
+    <Aux5 />
+    <AttributeId />
+    <Aux6 />
+  </row>
+</rows>
+<rows>
+  <row>
+    <AttributeName>MacAdress</AttributeName>
+    <Value>403F8CEE76DF</Value>
+    <DomainValue />
+    <Aux1 />
+    <Aux2 />
+    <Aux3 />
+    <Aux4 />
+    <Aux5 />
+    <AttributeId />
+    <Aux6 />
+  </row>
+</rows>
+<rows>
+  <row>
+    <AttributeName>SerialNumber</AttributeName>
+    <Value>403F8CEE76DF</Value>
+    <DomainValue />
+    <Aux1 />
+    <Aux2 />
+    <Aux3 />
+    <Aux4 />
+    <Aux5 />
+    <AttributeId />
+    <Aux6 />
+  </row>
+</rows>
+<rows>
+  <row>
+    <AttributeName>UserName</AttributeName>
+    <Value>ct2809466_19045</Value>
+    <DomainValue />
+    <Aux1 />
+    <Aux2 />
+    <Aux3 />
+    <Aux4 />
+    <Aux5 />
+    <AttributeId />
+    <Aux6 />
+  </row>
+</rows>
+<rows>
+  <row>
+    <AttributeName>Password</AttributeName>
+    <Value>ktjjlpsp</Value>
+    <DomainValue />
+    <Aux1 />
+    <Aux2 />
+    <Aux3 />
+    <Aux4 />
+    <Aux5 />
+    <AttributeId />
+    <Aux6 />
+  </row>
+</rows>
+<rows>
+  <row>
+    <AttributeName>Iccid</AttributeName>
+    <Value>89238020920000295100</Value>
+    <DomainValue />
+    <Aux1 />
+    <Aux2 />
+    <Aux3 />
+    <Aux4 />
+    <Aux5 />
+    <AttributeId />
+    <Aux6 />
+  </row>
+</rows>
+<rows>
+  <row>
+    <AttributeName>Imsi</AttributeName>
+    <Value>625052381000459</Value>
+    <DomainValue />
+    <Aux1 />
+    <Aux2 />
+    <Aux3 />
+    <Aux4 />
+    <Aux5 />
+    <AttributeId />
+    <Aux6 />
+  </row>
+</rows>
+<rows>
+  <row>
+    <AttributeName>Msisdn</AttributeName>
+    <Value>1000459</Value>
+    <DomainValue />
+    <Aux1 />
+    <Aux2 />
+    <Aux3 />
+    <Aux4 />
+    <Aux5 />
+    <AttributeId />
+    <Aux6 />
+  </row>
+</rows>
+<rows>
+  <row>
+    <AttributeName>Technology</AttributeName>
+    <Value>882370</Value>
+    <DomainValue />
+    <Aux1 />
+    <Aux2 />
+    <Aux3 />
+    <Aux4 />
+    <Aux5 />
+    <AttributeId />
+    <Aux6 />
+  </row>
+</rows>
+<rows>
+  <row>
+    <AttributeName>Dslam</AttributeName>
+    <Value />
+    <DomainValue />
+    <Aux1 />
+    <Aux2 />
+    <Aux3 />
+    <Aux4 />
+    <Aux5 />
+    <AttributeId />
+    <Aux6 />
+  </row>
+</rows>
+<rows>
+  <row>
+    <AttributeName>Circuito</AttributeName>
+    <Value />
+    <DomainValue />
+    <Aux1 />
+    <Aux2 />
+    <Aux3 />
+    <Aux4 />
+    <Aux5 />
+    <AttributeId />
+    <Aux6 />
+  </row>
+</rows>
+<rows>
+  <row>
+    <AttributeName>TechnologyCondominio</AttributeName>
+    <Value>2627794</Value>
+    <DomainValue />
+    <Aux1 />
+    <Aux2 />
+    <Aux3 />
+    <Aux4 />
+    <Aux5 />
+    <AttributeId />
+    <Aux6 />
+  </row>
+</rows>
+<rows>
+  <row>
+    <AttributeName>SubNetId</AttributeName>
+    <Value />
+    <DomainValue />
+    <Aux1 />
+    <Aux2 />
+    <Aux3 />
+    <Aux4 />
+    <Aux5 />
+    <AttributeId />
+    <Aux6 />
+  </row>
+</rows>
