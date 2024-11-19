@@ -1,0 +1,64 @@
+esim - Gera IdTransacao somente com numeros.
+ 
+http://172.18.5.17:8280/esim/esim_generate_transactionId
+{
+  "OperationRequest": {
+    "RequestHeader": {
+      "Autorization": {
+        "UserName": "ESim_Digital",
+        "Password": "ESim_Digital@Un!t3l",
+        "CanalCode": "1046",
+        "RolesName": "ESim_Digital"
+      },
+      "User": {
+        "UserID": 1806
+      },
+      "Token": {
+        "TokenID": ""
+      },
+      "RemoteHost": {
+        "RemoteIP": ""
+      }
+    },
+    "RequestBody": {
+      "esim_generate_transactionId":
+      {
+        "Codigo":""
+      }
+    }
+  }
+}
+
+
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+TV - Gera IdTransacao Alfanumerico
+ 
+http://172.18.5.13:8280/cadastro_tv/gerar_IdTransacao
+{
+    "OperationRequest": {
+        "RequestHeader": {
+            "Autorization": {
+                "UserName": "ucc2",
+                "Password": "ucc2@devteam",
+                "CanalCode": "1001",
+                "RolesName": "ucc2"
+            },
+            "User": {
+                "UserID": 1842
+            },
+            "Token": {
+                "TokenID": ""
+            },
+            "RemoteHost": {
+                "RemoteIP": "0"
+            }
+        },
+        "RequestBody": {
+            "gerar_IdTransacao": {}
+        }
+    }
+}
+
